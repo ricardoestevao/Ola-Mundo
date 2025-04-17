@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório 
 
- Repositório criado durante um curso durante uma live. 
+ Repositório criado durante uma live de um curso sobre GIT e GITHUB.
